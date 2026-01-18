@@ -1,0 +1,16 @@
+Ecole-ibn-khaldoun-main\attached_assets
+Ecole-ibn-khaldoun-main\client
+Ecole-ibn-khaldoun-main\script
+Ecole-ibn-khaldoun-main\server
+Ecole-ibn-khaldoun-main\shared
+Ecole-ibn-khaldoun-main\postcss.config.js
+Ecole-ibn-khaldoun-main\.gitignore
+Ecole-ibn-khaldoun-main\components.json
+Ecole-ibn-khaldoun-main\package.json
+Ecole-ibn-khaldoun-main\package-lock.json
+Ecole-ibn-khaldoun-main\tsconfig.json
+Ecole-ibn-khaldoun-main\replit.md
+Ecole-ibn-khaldoun-main\.replit
+Ecole-ibn-khaldoun-main\drizzle.config.ts
+Ecole-ibn-khaldoun-main\tailwind.config.ts
+Ecole-ibn-khaldoun-main\vite.config.ts
